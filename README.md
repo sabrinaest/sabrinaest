@@ -2,11 +2,11 @@
 
 ## 👩‍💻 About Me
 
-🎓 I am currently pursuing a BS in Computer Science at Oregon State University. Graduating in August '24
+🎓 I am pursuing a BS in Computer Science at Oregon State University. Graduating in August '24
 
 🌱 I’m currently learning cloud application development and operating systems
 
-💼 I'm currently on the lookout for full-time positions or internship opportunities for Summer 2024. Excited to bring my skills and passion to an innovative team!
+💼 I am on the lookout for full-time positions or internship opportunities for Summer 2024. Excited to bring my skills and passion to an innovative team!
 
 🧶 When I am not coding, I am probably testing out a new knitting pattern or playing video games with my husband! I have also recently gotten into baking, so drop me a recipe of yours you love!
 
