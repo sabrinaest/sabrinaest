@@ -55,7 +55,7 @@
 ![draw.io Badge](https://img.shields.io/badge/-draw.io-%23F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=%23FFFFFF)
 
 
-### 🎨 Workflow and Collaboration
+### 👥 Workflow and Collaboration
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -65,4 +65,4 @@
 
 [✉️ Drop me an email](mailto:) 
 
-[👥 Connect on LinkedIn](https://www.linkedin.com/in/sabrinaestrada)
+[🌐 Connect on LinkedIn](https://www.linkedin.com/in/sabrinaestrada)
