@@ -61,7 +61,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## 🤝 Want to chat? Reach out!
+## 📫 Want to chat? Reach out!
 
 [✉️ Drop me an email](mailto:) 
 
