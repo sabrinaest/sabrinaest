@@ -63,6 +63,4 @@
 
 ## 📫 Want to chat? Reach out!
 
-[✉️ Drop me an email](mailto:) 
-
 [🌐 Connect on LinkedIn](https://www.linkedin.com/in/sabrinaestrada)
