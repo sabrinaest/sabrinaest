@@ -21,6 +21,8 @@
 * **Web Development**
 * **Introduction to Databases**
 * **Intro to Computer Networks**
+* **Cloud Application Development**
+* **Operating Systems**
 
 ## 🛠️ Technologies & Tools
 
