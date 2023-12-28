@@ -43,8 +43,7 @@
 
 ### ☁️ Cloud Technologies & Services
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
 ### 📚 Frameworks, Platforms and Libraries
 
