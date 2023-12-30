@@ -4,7 +4,7 @@
 
 🎓 I am pursuing a BS in Computer Science at Oregon State University. Graduating in August '24
 
-🌱 I’m currently learning cloud application development and operating systems
+🌱 I’m currently learning mobile software development
 
 💼 I am on the lookout for full-time positions or internship opportunities for Summer 2024. Excited to bring my skills and passion to an innovative team!
 
