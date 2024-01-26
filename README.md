@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 I am pursuing a BS in Computer Science at Oregon State University. Graduating in August '24
+🎓 I am pursuing a BS in Computer Science at Oregon State University. Graduating in March '24
 
 🌱 I’m currently learning mobile software development
 
