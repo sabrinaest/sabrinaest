@@ -2,9 +2,9 @@
 
 ## 👩‍💻 About Me
 
-🎓 I am pursuing a BS in Computer Science at Oregon State University. Graduating in March '24
+🎓 I am a recent Computer Science graduate from Oregon State University
 
-🌱 I’m currently learning mobile software development
+🌱 I’m currently learning mobile software development and working on some personal projects!
 
 💼 I am on the lookout for full-time positions or internship opportunities for Summer 2024. Excited to bring my skills and passion to an innovative team!
 
@@ -23,6 +23,7 @@
 * **Intro to Computer Networks**
 * **Cloud Application Development**
 * **Operating Systems**
+* **Mobile Software Development**
 
 ## 🛠️ Technologies & Tools
 
